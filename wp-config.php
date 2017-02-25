@@ -27,7 +27,7 @@ define('DB_NAME', 'sd');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'matkhauSandinh');
+define('DB_PASSWORD', 'passwordSandinh');
 
 /** MySQL hostname */
 define('DB_HOST', 'company.sandinh.com');
