@@ -79,7 +79,7 @@ do_action( 'onepress_site_end' );
 
 <?php wp_footer(); ?>
 <script type='text/javascript'
-        src='http://45.76.213.217/sd4/wp-content/themes/sandinh/public/javascripts/gmap.js?ver=1.1.8'></script>
+        src='/wp-content/themes/sandinh/public/javascripts/gmap.js?ver=1.1.8'></script>
 <script type='text/javascript'
         src='https://maps.google.com/maps/api/js?key=AIzaSyC97ib0SwAgdFsndmPYKZr3Gl9ODCK6G-4&sensor=false&#038;ver=4.6.3'></script>
 </body>
