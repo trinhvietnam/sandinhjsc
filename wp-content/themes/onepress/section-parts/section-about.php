@@ -106,7 +106,8 @@ if ( ! empty( $page_ids ) ) {
                                 if ( $content_source == 'excerpt' ) {
                                     the_excerpt();
                                 } else {
-                                    the_content();
+//                                    the_content();
+                                    the_field('caption');
                                 }
 
                                 ?>
