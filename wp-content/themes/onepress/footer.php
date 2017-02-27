@@ -37,11 +37,11 @@
                             <!--</a>-->
                             <a target="_blank" href="https://www.facebook.com/sandinh.game"
                                title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <!--<a target="_blank" href="https://plus.google.com"-->
-                            <!--title="Google plus">-->
-                            <!--<i-->
-                            <!--class="fa fa-google-plus"></i>-->
-                            <!--</a>-->
+                            <a target="_blank" href="https://www.youtube.com/channel/UCIMmvyinwDgAiOyKll_BsLQ"
+                            title="Youtube">
+                            <i
+                            class="fa fa-youtube"></i>
+                            </a>
                             <!--<a target="_blank" href="#Instagram"-->
                             <!--title="Instagram">-->
                             <!--<i-->
