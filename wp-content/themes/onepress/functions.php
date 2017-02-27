@@ -385,4 +385,3 @@ require get_template_directory() . '/inc/customizer.php';
  * Add theme info page
  */
 require get_template_directory() . '/inc/dashboard.php';
-add_post_type_support( 'page', 'excerpt' );
