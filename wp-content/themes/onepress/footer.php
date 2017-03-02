@@ -85,8 +85,8 @@ do_action( 'onepress_site_end' );
 <?php
     if(true){ ?>
         <script>
-            $('.main-navigation .menu-item a').click(function () {
-                window.history.pushState("", "", $(this).attr('href'));
+            jQuery('.main-navigation .menu-item a').click(function () {
+                window.history.pushState("", "", jQuery(this).attr('href'));
             });
         </script>
     <?php }
