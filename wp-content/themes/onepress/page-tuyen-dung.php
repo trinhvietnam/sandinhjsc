@@ -69,5 +69,7 @@ $layout = get_theme_mod( 'onepress_layout', 'right-sidebar' );
 
     </div><!--#content-inside -->
 </div><!-- #content -->
-
+<script>
+    jQuery('.main-navigation #menu-item-1272').addClass('onepress-current-item');
+</script>
 <?php get_footer(); ?>
