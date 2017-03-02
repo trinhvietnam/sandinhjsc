@@ -50,6 +50,8 @@ get_header(); ?>
     <script>
         jQuery('.main-navigation .menu-item a').click(function () {
             window.history.pushState("", "", jQuery(this).attr('href'));
+            jQuery(this).parent().addClass('onepress-current-item');
         });
+        jQuery('.main-navigation .menu-item:first').addClass('onepress-current-item');
     </script>
 <?php get_footer(); ?>
