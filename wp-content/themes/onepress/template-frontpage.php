@@ -47,10 +47,5 @@ get_header(); ?>
 			?>
 		</main><!-- #main -->
 	</div><!-- #content -->
-    <script>
-        $('.main-navigation .menu-item a').click(function () {
-            window.history.pushState("", "", $(this).attr('href'));
-        });
 
-    </script>
 <?php get_footer(); ?>
