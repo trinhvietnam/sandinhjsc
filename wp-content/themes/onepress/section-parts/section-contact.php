@@ -104,8 +104,8 @@ if ( $onepress_contact_cf7 || $onepress_contact_text || $onepress_contact_addres
                             <div class="col-sm-4 address-contact">
                                 <span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i></span>
 
-                                <div class="address-content"><a href="mailto:company@sandinh.net">
-                                        company@sandinh.net</a>
+                                <div class="address-content"><a href="mailto:tuyendung@sandinh.net">
+                                        tuyendung@sandinh.net</a>
                                 </div>
                             </div>
                         </div>
