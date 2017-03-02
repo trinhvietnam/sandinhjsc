@@ -82,5 +82,15 @@ do_action( 'onepress_site_end' );
         src='<?php echo get_stylesheet_directory_uri()?>/assets/js/gmap.js'></script>
 <script type='text/javascript'
         src='https://maps.google.com/maps/api/js?key=AIzaSyC97ib0SwAgdFsndmPYKZr3Gl9ODCK6G-4&sensor=false&#038;ver=4.6.3'></script>
+<?php
+    if(is_home()){?>
+        <script>
+            $('.main-navigation .menu-item a').click(function () {
+                window.history.pushState("", "", $(this).attr('href'));
+            });
+
+        </script>
+    <?php}
+?>
 </body>
 </html>
