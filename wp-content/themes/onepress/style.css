@@ -4046,3 +4046,7 @@ img.mfp-img {
 .owl-carousel .owl-buttons .owl-next .lg-icon::before {
 	content: "\e095";
 }
+.sidebar .widget h3 {
+	font-family: Roboto;
+	padding: 0px;
+}
