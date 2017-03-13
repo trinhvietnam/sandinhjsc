@@ -1,0 +1,2935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Layouts Addon For Visual Composer\n"
+"POT-Creation-Date: 2016-11-29 21:51+0700\n"
+"PO-Revision-Date: 2016-11-29 21:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: BeeTeam368 <support@beeteam368.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:335 includes/functions.php:793
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:337 includes/functions.php:794
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:340 includes/functions.php:795
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:392 includes/functions.php:810
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:920
+#: includes/class-tgm-plugin-activation.php:2626
+#: includes/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3252 includes/functions.php:811
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1027
+#: includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3602
+#: includes/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3602
+#: includes/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/functions.php:10
+msgid "TERM/CATEGORY COLOR [Ultimate Layouts]"
+msgstr ""
+
+#: includes/functions.php:12
+msgid "Choose color of category, tag, taxonomy name on items"
+msgstr ""
+
+#: includes/functions.php:15
+msgid "TERM/CATEGORY BACKGROUND COLOR [Ultimate Layouts]"
+msgstr ""
+
+#: includes/functions.php:17
+msgid "Choose background color of category, tag, taxonomy name on items"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Video URL"
+msgstr ""
+
+#: includes/functions.php:64
+msgid ""
+"Paste the url from popular video sites like YouTube, Vimeo, Dailymotion, "
+"Facebook, Twitch or your file upload (*.mp4).\n"
+"\t\t\t\t\t\t\t\t\t\t<br><br><strong>For example:</"
+"strong><br><br><code>https://www.youtube.com/watch?v=mecUiCoVNM0</"
+"code><br><code>https://youtu.be/pAaxxTSasWU</code><br><br><code>https://"
+"vimeo.com/channels/staffpicks/169993072</code><br><code>https://vimeo."
+"com/167177444</code><br><br><code>http://www.dailymotion.com/video/"
+"x38rzz8_giant-snake-eats-security-guard_animals</code><br><br><code>https://"
+"www.twitch.tv/dotamajor/v/70986078</code><br><code>https://www.twitch.tv/"
+"dotamajor</code><br><br><code>https://www.facebook.com/leagueoflegends/"
+"videos/10157218236550556/</code>"
+msgstr ""
+
+#: includes/functions.php:79
+msgid "VIDEO Settings [Ultimate Layouts]"
+msgstr ""
+
+#: includes/functions.php:792
+msgid "Install Required &amp; Recommended Plugins"
+msgstr ""
+
+#: includes/functions.php:812
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:30
+msgid "Right To Left (RTL) Mode"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:59
+msgid "Enabled RTL"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:62
+#: includes/plugin-settings/plugin-settings.php:71
+#: includes/reg-vc/reg-vc.php:2565 includes/reg-vc/reg-vc.php:2575
+#: includes/reg-vc/reg-vc.php:3305
+msgid "NO"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:63
+#: includes/plugin-settings/plugin-settings.php:72
+#: includes/reg-vc/reg-vc.php:2564 includes/reg-vc/reg-vc.php:3306
+msgid "YES"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:68
+msgid "Disabled Link For Taxonomy, Category, Tags..."
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:78
+msgid "Image Size: 120*90px"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:81
+#: includes/plugin-settings/plugin-settings.php:90
+#: includes/plugin-settings/plugin-settings.php:99
+#: includes/plugin-settings/plugin-settings.php:108
+#: includes/plugin-settings/plugin-settings.php:117
+#: includes/plugin-settings/plugin-settings.php:126
+#: includes/plugin-settings/plugin-settings.php:135
+#: includes/plugin-settings/plugin-settings.php:144
+#: includes/plugin-settings/plugin-settings.php:153
+#: includes/plugin-settings/plugin-settings.php:162
+#: includes/plugin-settings/plugin-settings.php:171
+#: includes/plugin-settings/plugin-settings.php:180
+#: includes/plugin-settings/plugin-settings.php:189
+#: includes/plugin-settings/plugin-settings.php:198
+#: includes/plugin-settings/plugin-settings.php:207
+#: includes/plugin-settings/plugin-settings.php:216
+#: includes/plugin-settings/plugin-settings.php:225
+#: includes/plugin-settings/plugin-settings.php:234
+#: includes/reg-vc/reg-vc.php:1962 includes/reg-vc/reg-vc.php:3455
+#: includes/reg-vc/reg-vc.php:3464 includes/reg-vc/reg-vc.php:3473
+#: includes/reg-vc/reg-vc.php:3482 includes/reg-vc/reg-vc.php:3491
+#: includes/reg-vc/reg-vc.php:3501 includes/reg-vc/reg-vc.php:3511
+#: includes/reg-vc/reg-vc.php:3521
+msgid "Enabled"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:82
+#: includes/plugin-settings/plugin-settings.php:91
+#: includes/plugin-settings/plugin-settings.php:100
+#: includes/plugin-settings/plugin-settings.php:109
+#: includes/plugin-settings/plugin-settings.php:118
+#: includes/plugin-settings/plugin-settings.php:127
+#: includes/plugin-settings/plugin-settings.php:136
+#: includes/plugin-settings/plugin-settings.php:145
+#: includes/plugin-settings/plugin-settings.php:154
+#: includes/plugin-settings/plugin-settings.php:163
+#: includes/plugin-settings/plugin-settings.php:172
+#: includes/plugin-settings/plugin-settings.php:181
+#: includes/plugin-settings/plugin-settings.php:190
+#: includes/plugin-settings/plugin-settings.php:199
+#: includes/plugin-settings/plugin-settings.php:208
+#: includes/plugin-settings/plugin-settings.php:217
+#: includes/plugin-settings/plugin-settings.php:226
+#: includes/plugin-settings/plugin-settings.php:235
+#: includes/reg-vc/reg-vc.php:158 includes/reg-vc/reg-vc.php:1106
+#: includes/reg-vc/reg-vc.php:1123 includes/reg-vc/reg-vc.php:1963
+#: includes/reg-vc/reg-vc.php:3456 includes/reg-vc/reg-vc.php:3465
+#: includes/reg-vc/reg-vc.php:3474 includes/reg-vc/reg-vc.php:3483
+#: includes/reg-vc/reg-vc.php:3492 includes/reg-vc/reg-vc.php:3500
+#: includes/reg-vc/reg-vc.php:3510 includes/reg-vc/reg-vc.php:3520
+msgid "Disabled"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:87
+msgid "Image Size: 100(px) x 100(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:96
+msgid "Image Size: 200(px) x 200(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:105
+msgid "Image Size: 400(px) x 300(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:114
+msgid "Image Size: 800(px) x 600(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:123
+msgid "Image Size: 1200(px) x 900(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:132
+msgid "Image Size: 400(px) x 400(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:141
+msgid "Image Size: 800(px) x 800(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:150
+msgid "Image Size: 1200(px) x 1200(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:159
+msgid "Image Size: 400(px) x 225(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:168
+msgid "Image Size: 800(px) x 450(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:177
+msgid "Image Size: 1200(px) x 675(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:186
+msgid "Image Size: 400(px) x 600(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:195
+msgid "Image Size: 800(px) x 1200(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:204
+msgid "Image Size: 1200(px) x 1800(px)"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:213
+msgid "Image Size: 400(px) x free"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:222
+msgid "Image Size: 800(px) x free"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:231
+msgid "Image Size: 12000(px) x free"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:249
+msgid "Ultimate Layouts Settings"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:536
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:544
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:552
+msgid "Share on Google Plus"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:560
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:568
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:576
+msgid "Pin this"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:584
+msgid "Share on VK"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:592
+msgid "Email this"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:643
+#: includes/reg-shortcode/elements.php:676
+msgid "Share"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:702
+msgid "Read More"
+msgstr ""
+
+#: includes/reg-shortcode/elements.php:737
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: includes/reg-shortcode/html-shortcode.php:303
+msgid "Load More"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:666
+msgid "Show All"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:667
+msgid "Filter"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:805
+msgid "Sort By None"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:811 includes/reg-vc/reg-vc.php:3452
+msgid "Sort By Date"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:815 includes/reg-vc/reg-vc.php:3461
+msgid "Sort By ID"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:819 includes/reg-vc/reg-vc.php:3470
+msgid "Sort By Title"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:823 includes/reg-vc/reg-vc.php:3479
+msgid "Sort By Comment"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:827 includes/reg-vc/reg-vc.php:3488
+msgid "Sort By Author"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:831 includes/reg-vc/reg-vc.php:3497
+msgid "Sort By Price"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:835 includes/reg-vc/reg-vc.php:3507
+msgid "Sort By Sales"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:839 includes/reg-vc/reg-vc.php:3517
+msgid "Sort By Rating"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:7
+msgid "BeeTeam368"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:8
+msgid "Layout"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:9
+msgid "Query Builder"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:10
+msgid "WOO"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:11
+msgid "Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:12
+msgid "Typography"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:13
+msgid "Small Item Settings"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:14
+msgid "Quick View Settings"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:15
+msgid "Google Adsense"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:18 includes/reg-vc/reg-vc.php:30
+#: includes/reg-vc/reg-vc.php:37 includes/reg-vc/reg-vc.php:1901
+msgid "Default"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:19 includes/reg-vc/reg-vc.php:31
+msgid "Normal"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:20
+msgid "Bold"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:21
+msgid "300"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:22
+msgid "400"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:23
+msgid "500"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:24
+msgid "600"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:25
+msgid "700"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:26
+msgid "800"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:27
+msgid "900"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:32
+msgid "Italic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:33
+msgid "Oblique"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:38
+msgid "Uppercase"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:39
+msgid "Lowercase"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:40
+msgid "Capitalize"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:41
+msgid "None"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:45
+msgid "AFRICAN LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:46
+msgid "ALPINE THISTLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:47 includes/reg-vc/reg-vc.php:138
+msgid "AMARYLLIS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:48
+msgid "AMAZON LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:49
+msgid "ARUM LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:50
+msgid "BABY’S BREATH"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:51
+msgid "BARBERTON"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:54
+msgid "BIRD OF PARADISE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:55
+msgid "BLEEDING HEART"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:56
+msgid "BLOOM"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:57
+msgid "BLUE THROATWORT"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:58
+msgid "BROOM"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:59
+msgid "BUSY LIZZIE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:64
+msgid "CALLA LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:70
+msgid "CONEFLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:71
+msgid "DAFFODIL"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:72
+msgid "EVENING PRIMROSE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:73
+msgid "FEVERFEW"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:74
+msgid "FLAME TIP"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:75
+msgid "FLAMINGO FLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:76
+msgid "FORGET ME NOT"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:77
+msgid "FOXGLOVE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:78
+msgid "GAY FEATHER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:79
+msgid "GLOBE THISTLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:80
+msgid "GOLDEN ROD"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:81
+msgid "GRAPE HYACINTH"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:82
+msgid "GUERNSEY LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:83
+msgid "HYACINTH"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:84
+msgid "IRIS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:85
+msgid "JERSEY LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:86
+msgid "LADY’S MANTLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:87
+msgid "LARKSPUR"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:88
+msgid "LAVENDER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:89
+msgid "LILAC"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:90
+msgid "LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:91
+msgid "LISIANTHUS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:92
+msgid "LOBSTER CLAW"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:93
+msgid "LOVE IN A MIST"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:94
+msgid "SEA LAVENDER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:95
+msgid "SEPTEMBER FLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:99
+msgid "CORNFLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:100
+msgid "MIMOSA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:101
+msgid "MOTH ORCHID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:102
+msgid "MUMS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:103
+msgid "PEONY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:104
+msgid "PERUVIAN LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:105
+msgid "CANTERBURY BELLS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:106
+msgid "BELLS OF IRELAND"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:107
+msgid "MARIGOLD"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:108
+msgid "MICHAELMAS DAISY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:111
+msgid "PRAIRIE GENTIAN"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:112
+msgid "ROSE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:113
+msgid "SCABIOUS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:119
+msgid "SPRAY CARNATION"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:120
+msgid "STATICE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:127
+msgid "TULIP"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:128
+msgid "WAXFLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:129
+msgid "WINDFLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:130
+msgid "YARROW"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:131
+msgid "MELASTOMA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:132
+msgid "HENNA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:135
+msgid "MYRTLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:136
+msgid "SWEET PEA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:137
+msgid "MADONNA LILY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:139
+msgid "FREESIA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:140
+msgid "GORSE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:143
+msgid "CLIMBING ROSE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:144
+msgid "MILK FLOWER"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:153
+msgid "MAGNOLIA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:154
+msgid "MORNING GLORY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:159
+msgid "1 Column"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:160
+msgid "2 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:161
+msgid "3 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:162
+msgid "4 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:163
+msgid "5 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:164
+msgid "6 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:165
+msgid "7 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:166
+msgid "8 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:167
+msgid "9 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:168
+msgid "10 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:169
+msgid "11 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:170
+msgid "12 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:175
+msgid "thumbnail"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:195
+msgid "Multiple Post Types"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:210
+msgid "Multiple Taxonomies"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:216
+msgid "Ultimate Layouts - High Perfomance Content Blocks"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:227
+msgid "Layout Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:230 includes/reg-vc/reg-vc.php:248
+msgid "GRID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:231
+msgid "CAROUSEL-TRADITIONAL"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:232
+msgid "CAROUSEL-FREE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:233 includes/reg-vc/reg-vc.php:429
+msgid "CONTENT BLOCKS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:234 includes/reg-vc/reg-vc.php:774
+msgid "LIST"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:235 includes/reg-vc/reg-vc.php:801
+msgid "CREATIVE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:239 includes/reg-vc/reg-vc.php:886
+msgid "TIMELINE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:259
+msgid "GRID Masonry Mode"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:262 includes/reg-vc/reg-vc.php:307
+#: includes/reg-vc/reg-vc.php:320 includes/reg-vc/reg-vc.php:335
+#: includes/reg-vc/reg-vc.php:349 includes/reg-vc/reg-vc.php:363
+#: includes/reg-vc/reg-vc.php:390 includes/reg-vc/reg-vc.php:416
+#: includes/reg-vc/reg-vc.php:444 includes/reg-vc/reg-vc.php:457
+#: includes/reg-vc/reg-vc.php:472 includes/reg-vc/reg-vc.php:485
+#: includes/reg-vc/reg-vc.php:500 includes/reg-vc/reg-vc.php:527
+#: includes/reg-vc/reg-vc.php:591 includes/reg-vc/reg-vc.php:606
+#: includes/reg-vc/reg-vc.php:620 includes/reg-vc/reg-vc.php:633
+#: includes/reg-vc/reg-vc.php:648 includes/reg-vc/reg-vc.php:675
+#: includes/reg-vc/reg-vc.php:688 includes/reg-vc/reg-vc.php:702
+#: includes/reg-vc/reg-vc.php:830 includes/reg-vc/reg-vc.php:986
+#: includes/reg-vc/reg-vc.php:996 includes/reg-vc/reg-vc.php:1009
+#: includes/reg-vc/reg-vc.php:1023 includes/reg-vc/reg-vc.php:1065
+#: includes/reg-vc/reg-vc.php:1079 includes/reg-vc/reg-vc.php:1092
+#: includes/reg-vc/reg-vc.php:1180 includes/reg-vc/reg-vc.php:1189
+#: includes/reg-vc/reg-vc.php:1204 includes/reg-vc/reg-vc.php:1217
+#: includes/reg-vc/reg-vc.php:1232 includes/reg-vc/reg-vc.php:1260
+#: includes/reg-vc/reg-vc.php:1275 includes/reg-vc/reg-vc.php:1301
+#: includes/reg-vc/reg-vc.php:1324 includes/reg-vc/reg-vc.php:1388
+#: includes/reg-vc/reg-vc.php:1403 includes/reg-vc/reg-vc.php:1413
+#: includes/reg-vc/reg-vc.php:1426 includes/reg-vc/reg-vc.php:1441
+#: includes/reg-vc/reg-vc.php:1468 includes/reg-vc/reg-vc.php:1481
+#: includes/reg-vc/reg-vc.php:1495 includes/reg-vc/reg-vc.php:1523
+#: includes/reg-vc/reg-vc.php:1536 includes/reg-vc/reg-vc.php:1550
+#: includes/reg-vc/reg-vc.php:1564 includes/reg-vc/reg-vc.php:1591
+#: includes/reg-vc/reg-vc.php:1606 includes/reg-vc/reg-vc.php:1620
+#: includes/reg-vc/reg-vc.php:1647 includes/reg-vc/reg-vc.php:1660
+#: includes/reg-vc/reg-vc.php:1873 includes/reg-vc/reg-vc.php:1988
+#: includes/reg-vc/reg-vc.php:2068 includes/reg-vc/reg-vc.php:2095
+#: includes/reg-vc/reg-vc.php:2159 includes/reg-vc/reg-vc.php:2174
+#: includes/reg-vc/reg-vc.php:2188 includes/reg-vc/reg-vc.php:2201
+#: includes/reg-vc/reg-vc.php:2216 includes/reg-vc/reg-vc.php:2243
+#: includes/reg-vc/reg-vc.php:2257 includes/reg-vc/reg-vc.php:2284
+#: includes/reg-vc/reg-vc.php:2298 includes/reg-vc/reg-vc.php:2313
+#: includes/reg-vc/reg-vc.php:2328 includes/reg-vc/reg-vc.php:2343
+#: includes/reg-vc/reg-vc.php:2629 includes/reg-vc/reg-vc.php:2639
+#: includes/reg-vc/reg-vc.php:2649 includes/reg-vc/reg-vc.php:3350
+#: includes/reg-vc/reg-vc.php:3360 includes/reg-vc/reg-vc.php:3404
+msgid "No"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:263 includes/reg-vc/reg-vc.php:306
+#: includes/reg-vc/reg-vc.php:321 includes/reg-vc/reg-vc.php:334
+#: includes/reg-vc/reg-vc.php:348 includes/reg-vc/reg-vc.php:362
+#: includes/reg-vc/reg-vc.php:389 includes/reg-vc/reg-vc.php:417
+#: includes/reg-vc/reg-vc.php:443 includes/reg-vc/reg-vc.php:458
+#: includes/reg-vc/reg-vc.php:471 includes/reg-vc/reg-vc.php:486
+#: includes/reg-vc/reg-vc.php:499 includes/reg-vc/reg-vc.php:528
+#: includes/reg-vc/reg-vc.php:592 includes/reg-vc/reg-vc.php:605
+#: includes/reg-vc/reg-vc.php:619 includes/reg-vc/reg-vc.php:634
+#: includes/reg-vc/reg-vc.php:647 includes/reg-vc/reg-vc.php:674
+#: includes/reg-vc/reg-vc.php:689 includes/reg-vc/reg-vc.php:703
+#: includes/reg-vc/reg-vc.php:831 includes/reg-vc/reg-vc.php:985
+#: includes/reg-vc/reg-vc.php:995 includes/reg-vc/reg-vc.php:1010
+#: includes/reg-vc/reg-vc.php:1024 includes/reg-vc/reg-vc.php:1064
+#: includes/reg-vc/reg-vc.php:1078 includes/reg-vc/reg-vc.php:1093
+#: includes/reg-vc/reg-vc.php:1179 includes/reg-vc/reg-vc.php:1190
+#: includes/reg-vc/reg-vc.php:1203 includes/reg-vc/reg-vc.php:1218
+#: includes/reg-vc/reg-vc.php:1231 includes/reg-vc/reg-vc.php:1259
+#: includes/reg-vc/reg-vc.php:1274 includes/reg-vc/reg-vc.php:1300
+#: includes/reg-vc/reg-vc.php:1325 includes/reg-vc/reg-vc.php:1389
+#: includes/reg-vc/reg-vc.php:1402 includes/reg-vc/reg-vc.php:1412
+#: includes/reg-vc/reg-vc.php:1427 includes/reg-vc/reg-vc.php:1440
+#: includes/reg-vc/reg-vc.php:1467 includes/reg-vc/reg-vc.php:1482
+#: includes/reg-vc/reg-vc.php:1496 includes/reg-vc/reg-vc.php:1522
+#: includes/reg-vc/reg-vc.php:1537 includes/reg-vc/reg-vc.php:1551
+#: includes/reg-vc/reg-vc.php:1565 includes/reg-vc/reg-vc.php:1592
+#: includes/reg-vc/reg-vc.php:1605 includes/reg-vc/reg-vc.php:1619
+#: includes/reg-vc/reg-vc.php:1646 includes/reg-vc/reg-vc.php:1661
+#: includes/reg-vc/reg-vc.php:1874 includes/reg-vc/reg-vc.php:1987
+#: includes/reg-vc/reg-vc.php:2067 includes/reg-vc/reg-vc.php:2096
+#: includes/reg-vc/reg-vc.php:2160 includes/reg-vc/reg-vc.php:2173
+#: includes/reg-vc/reg-vc.php:2187 includes/reg-vc/reg-vc.php:2202
+#: includes/reg-vc/reg-vc.php:2215 includes/reg-vc/reg-vc.php:2242
+#: includes/reg-vc/reg-vc.php:2256 includes/reg-vc/reg-vc.php:2283
+#: includes/reg-vc/reg-vc.php:2299 includes/reg-vc/reg-vc.php:2312
+#: includes/reg-vc/reg-vc.php:2327 includes/reg-vc/reg-vc.php:2342
+#: includes/reg-vc/reg-vc.php:2630 includes/reg-vc/reg-vc.php:2640
+#: includes/reg-vc/reg-vc.php:2650 includes/reg-vc/reg-vc.php:3349
+#: includes/reg-vc/reg-vc.php:3361 includes/reg-vc/reg-vc.php:3403
+msgid "Yes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:276
+msgid "CAROUSEL TRADITIONAL"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:290
+msgid "CAROUSEL FREE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:303
+msgid "[CAROUSEL] Prev/Next Arrows"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:317
+msgid "[CAROUSEL] Arrows OutSide"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:331
+msgid "[CAROUSEL] Show Dot Indicators"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:345
+msgid "[CAROUSEL] Infinite Loop Sliding"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:359
+msgid "[CAROUSEL] Enables Autoplay"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:373
+msgid "[CAROUSEL] AutoplaySpeed"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:376
+msgid ""
+"Autoplay Speed in milliseconds. If blank, defaults to: <code>5000</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:385
+msgid "[CAROUSEL] Scroll Per Page"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:387
+msgid ""
+"Scroll per page not per item. This affect next/prev buttons and mouse/touch "
+"dragging."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:400
+msgid "[CAROUSEL] Animation Speed"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:403
+msgid "If blank, defaults to: <code>500</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:412
+msgid "[CAROUSEL] Center Mode"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:414
+msgid "Enables centered view with partial prev/next slides."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:440 includes/reg-vc/reg-vc.php:1176
+#: includes/reg-vc/reg-vc.php:1984
+msgid "Show Title"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:454 includes/reg-vc/reg-vc.php:1186
+msgid "[Title] Limit Element To 01 Line"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:468 includes/reg-vc/reg-vc.php:1200
+msgid "[Title] Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:482 includes/reg-vc/reg-vc.php:1214
+msgid "[Title] Open Link In New Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:496 includes/reg-vc/reg-vc.php:1297
+#: includes/reg-vc/reg-vc.php:2064
+msgid "Show Categories, Taxonomies, Tags ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:510 includes/reg-vc/reg-vc.php:1307
+#: includes/reg-vc/reg-vc.php:2078
+msgid "[Categories, Taxonomies, Tags ...] Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:513 includes/reg-vc/reg-vc.php:1310
+#: includes/reg-vc/reg-vc.php:2081
+msgid "Inline Block"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:514 includes/reg-vc/reg-vc.php:1311
+#: includes/reg-vc/reg-vc.php:2082
+msgid "Inline Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:524 includes/reg-vc/reg-vc.php:1321
+#: includes/reg-vc/reg-vc.php:2092
+msgid "[Categories, Taxonomies, Tags ...] Get Only Parent"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:538 includes/reg-vc/reg-vc.php:1335
+#: includes/reg-vc/reg-vc.php:2106
+msgid "[Categories, Taxonomies, Tags ...] HIDE taxonomies..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:544 includes/reg-vc/reg-vc.php:1341
+#: includes/reg-vc/reg-vc.php:2112
+msgid ""
+"List of \"Taxonomies\" do not want to display on layout, separated by a "
+"comma. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  Example: <code>category</"
+"code>, <code>post_tag</code>, <code>product_cat</code>... \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  <br><br> Full List: "
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:551 includes/reg-vc/reg-vc.php:1348
+#: includes/reg-vc/reg-vc.php:2119
+msgid "[Categories, Taxonomies, Tags ...] Color Settings"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:554 includes/reg-vc/reg-vc.php:1351
+#: includes/reg-vc/reg-vc.php:2122
+msgid "TERM/CATEGORY BACKGROUND & COLOR"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:555 includes/reg-vc/reg-vc.php:1352
+#: includes/reg-vc/reg-vc.php:2123
+msgid "Static Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:565 includes/reg-vc/reg-vc.php:1362
+#: includes/reg-vc/reg-vc.php:2133
+msgid "[Categories, Taxonomies, Tags] Text Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:576 includes/reg-vc/reg-vc.php:1373
+#: includes/reg-vc/reg-vc.php:2144
+msgid "[Categories, Taxonomies, Tags] Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:578 includes/reg-vc/reg-vc.php:1375
+#: includes/reg-vc/reg-vc.php:2146
+msgid "Work with [Categories, Taxonomies, Tags ...] Style: Inline Block"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:588 includes/reg-vc/reg-vc.php:1385
+#: includes/reg-vc/reg-vc.php:2156
+msgid "[Categories, Taxonomies, Tags ...] Open Link In New Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:602 includes/reg-vc/reg-vc.php:1399
+msgid "Show Post Meta 1"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:616 includes/reg-vc/reg-vc.php:1409
+msgid "[Post Meta 1] Show Author"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:630 includes/reg-vc/reg-vc.php:1423
+msgid "[Post Meta 1] Show Author Avatar"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:644 includes/reg-vc/reg-vc.php:1437
+msgid "[Post Meta 1] Show Date/Time"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:658 includes/reg-vc/reg-vc.php:1451
+msgid "[Post Meta 1] - [Date/Time] Format"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:660 includes/reg-vc/reg-vc.php:1453
+#: includes/reg-vc/reg-vc.php:1577 includes/reg-vc/reg-vc.php:2228
+msgid ""
+"Enter date/time format - <a href=\"https://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\">Tutorial</a>. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   If blank, defaults to: "
+"<code>F j, Y</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:671 includes/reg-vc/reg-vc.php:1464
+msgid "[Post Meta 1] Show Comment Count"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:685 includes/reg-vc/reg-vc.php:1478
+msgid "[Post Meta 1] Show Like"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:699 includes/reg-vc/reg-vc.php:1492
+msgid "[Post Meta 1] Show Share"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:713 includes/reg-vc/reg-vc.php:1506
+#: includes/reg-vc/reg-vc.php:2267
+msgid "[Post Meta 1] - Custom Post Meta"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:715 includes/reg-vc/reg-vc.php:1508
+#: includes/reg-vc/reg-vc.php:1632 includes/reg-vc/reg-vc.php:2269
+msgid ""
+"Enter custom post meta - Example: <br><code>[fontAwesome Icon]|[Your Post "
+"Meta Key]</code> \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   <br><code>fa fa-eye|"
+"beteplug_post_views_count,fa fa-calendar-check-o|MipTheme_Post_Views</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:726 includes/reg-vc/reg-vc.php:2815
+msgid "Title Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:733 includes/reg-vc/reg-vc.php:2818
+msgid "If blank, defaults to <code>#222222</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:737 includes/reg-vc/reg-vc.php:2822
+msgid "Title [Hover] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:744 includes/reg-vc/reg-vc.php:2825
+msgid "If blank, defaults to <code>#666666</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:749 includes/reg-vc/reg-vc.php:2830
+msgid "Metas 1 Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:756 includes/reg-vc/reg-vc.php:2833
+#: includes/reg-vc/reg-vc.php:2870
+msgid "If blank, defaults to <code>#999999</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:760 includes/reg-vc/reg-vc.php:2837
+msgid "Metas 1 [Hover] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:767 includes/reg-vc/reg-vc.php:2840
+msgid "If blank, defaults to <code>#3c3c3c</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:812
+msgid "CREATIVE [Show Elements]"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:815
+msgid "Content"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:816
+msgid "Icon (lightbox)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:817
+msgid "Both (icon + content)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:827
+msgid "CREATIVE [Always Visible Content]"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:844
+msgid "DREAMS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:858
+msgid "CHARMING"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:872
+msgid "GALLERY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:900
+msgid "SOCIAL FEED"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:914
+msgid "AdSense Ads Client ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:916
+msgid ""
+"If you want to display Adsense in Layouts (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Client ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:927
+msgid "AdSense Ads Slot ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:929
+msgid ""
+"If you want to display Adsense in Layouts (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Slot ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:940 includes/reg-vc/reg-vc.php:2595
+msgid "Offset"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:942
+msgid ""
+"Ads appear position, Ex: <code>1</code>, <code>3</code>, <code>5</code>..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:955
+msgid "Image Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:957
+msgid ""
+"Work with Layout Styles: GRID, SLIDER, CAROUSEL, CONTENT BLOCKS, LIST, "
+"GALLERY, TIMELINE."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:967
+msgid "Image Size (small item)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:969
+msgid "Work with Layout Styles: CONTENT BLOCKS (small item)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:982
+msgid "Show [Image]"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:992
+msgid "[Image] Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1006
+msgid "[Image] Open Link In New Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1020
+msgid "[Image] Show Icon Video Lightbox"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1034
+msgid "[Video] URL - Post Meta"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1037
+msgid "Using Post Meta (create by: Beeteam368)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1038
+msgid "Enter Your Post Meta (Key)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1048
+msgid "[Video] URL - Your Post Meta (Key)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1050
+msgid ""
+"Information which contains a link to the video will be opened on lightbox. "
+"Example: \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  "
+"<code>_ultimate_layouts_video_link</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1061
+msgid "[Image] Show Icon Image Lightbox"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1075
+msgid "[Image] Show Icon Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1089
+msgid "[Icon Link] Open Link In New Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1103
+msgid "[Image] Hover Effect"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1107
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1108
+msgid "Zoom Out Slow"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1109
+msgid "Zoom In"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1110
+msgid "Zoom In Slow"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1120
+msgid "[Image] Overlay Hover Effect"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1124
+msgid "Fade"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1125
+msgid "Sweep To Right"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1126
+msgid "Sweep To Left"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1127
+msgid "Sweep To Bottom"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1128
+msgid "Sweep To Top"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1129
+msgid "Bounce To Right"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1130
+msgid "Bounce To Left"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1131
+msgid "Bounce To Bottom"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1132
+msgid "Bounce To Top"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1133
+msgid "Radial Out"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1134
+msgid "Radial In"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1135
+msgid "Rectangle In"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1136
+msgid "Rectangle Out"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1137
+msgid "Shutter In Horizontal"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1138
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1139
+msgid "Shutter In Vertical"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1140
+msgid "Shutter Out Vertical"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1150
+msgid "[Overlay] Settings"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1153
+msgid "Background - Static Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1154
+msgid "Background - TERM/CATEGORY BACKGROUND COLOR"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1164
+msgid "[Image] Overlay Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1166
+msgid "If blank, defaults to <code>rgba(255,255,255,0.38)</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1228
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1242
+msgid "[Excerpt] Wordpress Function"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1245
+msgid "get_the_excerpt()"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1246
+msgid "the_excerpt()"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1256
+msgid "[Excerpt] Strip Shortcodes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1270
+msgid "[Excerpt] Strip HTML Tags"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1272
+msgid ""
+"If you disable this option, you'll probably have to custom CSS to match your "
+"theme."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1285
+msgid "[Excerpt] Length"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1287
+msgid ""
+"Enter excerpt length. Example: <code>100</code>, <code>150</code>, <code>55</"
+"code>... - Default = blank"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1519
+msgid "Show Post Meta 2"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1533
+msgid "[Post Meta 2] Show Author"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1547
+msgid "[Post Meta 2] Show Author Avatar"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1561
+msgid "[Post Meta 2] Show Date/Time"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1575
+msgid "[Post Meta 2] - [Date/Time] Format"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1588
+msgid "[Post Meta 2] Show Comment Count"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1602
+msgid "[Post Meta 2] Show Like"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1616
+msgid "[Post Meta 2] Show Share"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1630
+msgid "[Post Meta 2] - Custom Post Meta"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1643
+msgid "[Post Meta 2] Read More Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1657
+msgid "[Post Meta 2] [Read More Button] Open Link In New Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1672
+msgid "Share Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1679
+msgid "Read More Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1689
+msgid "Custom Columns - Mobiles (=0px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1691 includes/reg-vc/reg-vc.php:1703
+#: includes/reg-vc/reg-vc.php:1715 includes/reg-vc/reg-vc.php:1727
+#: includes/reg-vc/reg-vc.php:1739 includes/reg-vc/reg-vc.php:1751
+#: includes/reg-vc/reg-vc.php:1763
+msgid "Work with Layout Styles: GRID, CAROUSEL, GALLERY, SOCIAL FEED."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1701
+msgid "Custom Columns - Portrait Tablets  (=600px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1713
+msgid "Custom Columns - Landscape Tablets  (=800px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1725
+msgid "Custom Columns - Small - Desktops  (=1025px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1737
+msgid "Custom Columns - Medium - Desktops  (=1366px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1749
+msgid "Custom Columns - Large - Desktops (=1600px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1761
+msgid "Custom Columns - Extra Large - Desktops (=1920px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1776
+msgid "Gap (Horizontal)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1778
+msgid ""
+"Enter gap between grid elements. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   Example: <code>5px</code>, "
+"<code>10px</code>, <code>15px</code>... - Default = blank"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1789
+msgid "Gap (Vertical)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1791
+msgid ""
+"Enter gap between grid elements.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   Example: <code>5px</code>, "
+"<code>10px</code>, <code>15px</code>... - Default = blank"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1805
+msgid "Pagination Settings"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1808
+msgid "Load More Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1809
+msgid "Page Numbers"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1811
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1821
+msgid "Load More Button Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1832
+msgid "[Infinite Scroll] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1869
+msgid "Lazyload Images"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1871
+msgid "Lazyload does not support \"Carousel Styles\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1884
+msgid "[Lazyload] - Placeholder Background"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1898
+msgid "Post Animation Effects"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1902
+msgid "Random"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1903
+msgid "Random Asynchronous"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1905
+msgid "bounce"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1906
+msgid "flash"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1907
+msgid "pulse"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1908
+msgid "rubberBand"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1909
+msgid "shake"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1910
+msgid "swing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1911
+msgid "tada"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1912
+msgid "wobble"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1913
+msgid "jello"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1914
+msgid "bounceIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1915
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1916
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1917
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1918
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1919
+msgid "fadeIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1920
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1921
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1922
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1923
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1924
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1925
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1926
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1927
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1928
+msgid "flipInX"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1929
+msgid "flipInY"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1930
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1931
+msgid "rotateIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1932
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1933
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1934
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1935
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1936
+msgid "rollIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1937
+msgid "zoomIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1938
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1939
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1940
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1941
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1942
+msgid "slideInDown"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1943
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1944
+msgid "slideInRight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1945
+msgid "slideInUp"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1947
+msgid "The list posts appear, there will be more animated"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1959
+msgid "Quick View"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1969
+msgid "[Quick View] Open Post By"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1971
+msgid "Open by basic button (or) All links on layout."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1973
+msgid "Basic Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1974
+msgid "All Links on Layout"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1998 includes/reg-vc/reg-vc.php:2954
+msgid "[Title] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2000 includes/reg-vc/reg-vc.php:2669
+#: includes/reg-vc/reg-vc.php:2720 includes/reg-vc/reg-vc.php:2956
+#: includes/reg-vc/reg-vc.php:3008 includes/reg-vc/reg-vc.php:3060
+#: includes/reg-vc/reg-vc.php:3112 includes/reg-vc/reg-vc.php:3164
+#: includes/reg-vc/reg-vc.php:3216
+msgid "<strong>Example:</strong> <code>14px</code>, <code>16px</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2009 includes/reg-vc/reg-vc.php:2961
+msgid "[Title] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2011 includes/reg-vc/reg-vc.php:2963
+msgid ""
+"<strong>Example:</strong> <code>1px</code>, <code>0.1em</code> ... If blank, "
+"defaults to <code>0.075em</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2020 includes/reg-vc/reg-vc.php:2968
+msgid "[Title] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2031 includes/reg-vc/reg-vc.php:2975
+msgid "[Title] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2042 includes/reg-vc/reg-vc.php:2982
+msgid "[Title] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2053 includes/reg-vc/reg-vc.php:2989
+msgid "[Title] Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2055 includes/reg-vc/reg-vc.php:2704
+#: includes/reg-vc/reg-vc.php:2755 includes/reg-vc/reg-vc.php:2991
+#: includes/reg-vc/reg-vc.php:3043 includes/reg-vc/reg-vc.php:3095
+#: includes/reg-vc/reg-vc.php:3147 includes/reg-vc/reg-vc.php:3199
+#: includes/reg-vc/reg-vc.php:3251
+msgid "<strong>Example:</strong> <code>15px</code>, <code>1.55em</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2170
+msgid "Show Post Meta's"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2184
+msgid "[Post Meta's] Show Author"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2198
+msgid "[Post Meta's] Show Author Avatar"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2212
+msgid "[Post Meta's] Show Date/Time"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2226
+msgid "[Post Meta's] - [Date/Time] Format"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2239
+msgid "[Post Meta's] Show Comment Count"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2253
+msgid "[Post Meta's] Show Like"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2280
+msgid "Show Content"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2295
+msgid "[Content] Strip Shortcodes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2309
+msgid "Show Social Share"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2324
+msgid "[wooCommerce] Show Rating"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2339
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2355 includes/reg-vc/reg-vc.php:3366
+#: includes/reg-vc/reg-vc.php:3426 includes/reg-vc/reg-vc.php:3527
+#: includes/reg-vc/reg-vc.php:3546
+msgid "Extra Class Name"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2365
+msgid "Post types"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2368
+msgid ""
+"Select content type for your layout. If you select the \"attachment\", you "
+"will not be able to use the filter. It's just a slideshow function available "
+"images in your media library."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2373
+msgid "INCLUDE Attachment"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2383
+msgid "Use Multiple \"Post Types\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2389
+msgid ""
+"List of \"Post Types\" to query items from, separated by a comma. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  Example: <code>post</code>, "
+"<code>page</code>, <code>product</code>... \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  <br><br> Full List: "
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2396
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2399
+msgid "Works in conjunction with selected \"Post types\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2404
+msgid "Use Multiple \"Taxonomies\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2410
+msgid ""
+"List of \"Taxonomies\" to query items from, separated by a comma. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  Example: <code>category</code>, "
+"<code>post_tag</code>, <code>product_cat</code>... \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  <br><br> Full List: "
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2417
+msgid "Query Types"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2420
+msgid "Query Type 1: INCLUDE categories, tags, taxonomies..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2421
+msgid "Query Type 2: EXCLUDE categories, tags, taxonomies..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2422
+msgid "Query Type 3: INCLUDE Posts/Pages/Custom Post Types..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2424
+msgid "Select the type of query."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2429
+msgid "INCLUDE categories, tags, taxonomies..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2431
+msgid "Enter categories, tags, taxonomies... be shown posts in the layout."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2449
+msgid "EXCLUDE categories, tags, taxonomies..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2451
+msgid ""
+"Enter categories, tags, taxonomies... won't be shown posts in the layout. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  These taxonomies are removed "
+"will not be added to the list of filters."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2470
+msgid "EXCLUDE Posts/Pages/Custom Post Types"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2472
+msgid ""
+"Only entered posts/pages will be \"EXCLUDED\" in the output. Note: Works in "
+"conjunction with selected \"Post types\"."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2490
+msgid "INCLUDE Posts/Pages/Custom Post Types"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2492
+msgid ""
+"Only entered posts/pages will be \"INCLUDED\" in the output. Note: Works in "
+"conjunction with selected \"Post types\"."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2510
+msgid "Order By"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2513
+msgid "Date"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2514
+msgid "Order by post ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2515 includes/reg-vc/reg-vc.php:2553
+msgid "Author"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2516
+msgid "Title"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2517
+msgid "Last modified date"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2518
+msgid "Post/page parent ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2519
+msgid "Number of comments"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2520
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2521
+msgid "Random order"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2522
+msgid "Meta Value"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2523
+msgid "Meta Value Number"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2524
+msgid "Preserve post ID order"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2526
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2531
+msgid "Meta Key"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2533
+msgid "Input meta key for grid ordering."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2542
+msgid "Sort Order"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2545
+msgid "Descending"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2546
+msgid "Ascending"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2548
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2555
+msgid ""
+"Use author id, separated by a comma, ex: <code>1,2,3</code>. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t[use minus (-) to exclude "
+"authors by ID ex: <code>-1,-2,-3</code>]"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2561
+msgid "Include Children"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2567
+msgid ""
+"Whether or not to include children for hierarchical taxonomies. Defaults to "
+"YES."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2572
+msgid "Query Date"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2576
+msgid "Only return today's post"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2577
+msgid "From today onwards"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2579
+msgid "If you want to return today's post then you select YES."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2584
+msgid "DateTime Meta Key"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2590
+msgid "Support Date Format: YYYY-MM-DD."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2597
+msgid ""
+"Number of post to displace or pass over.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWarning: Setting the offset "
+"parameter overrides/ignores the paged parameter and breaks pagination. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFor a workaround see: http://"
+"codex.wordpress.org/Making_Custom_Queries_using_Offset_and_Pagination.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe 'offset' parameter is "
+"ignored when 'posts_per_page'=>-1 (show all posts) is used."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2605
+msgid "Post Count"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2607
+msgid ""
+"Set max limit for items in grid or enter -1 to display all. If blank, "
+"defaults to: 50"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2612
+msgid "Items per page"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2614
+msgid "Number of items to show per page. If blank, defaults to: 10"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2626
+msgid "Show Price"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2636
+msgid "Show Rating"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2646
+msgid "Show Add To Cart"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2658
+msgid "PRICE Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2660 includes/reg-vc/reg-vc.php:2711
+#: includes/reg-vc/reg-vc.php:2947 includes/reg-vc/reg-vc.php:2999
+#: includes/reg-vc/reg-vc.php:3051 includes/reg-vc/reg-vc.php:3103
+#: includes/reg-vc/reg-vc.php:3155 includes/reg-vc/reg-vc.php:3207
+msgid ""
+"\tEnter font-family name here. Google Fonts are supported. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFor example, if you choose \"Open "
+"Sans\" <a href=\"http://www.google.com/fonts/\" target=\"_blank\">Google "
+"Font</a> \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twith font-weight 400,500,600, "
+"enter <code>Open Sans:400,500,600</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2667
+msgid "[PRICE] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2674
+msgid "[PRICE] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2676 includes/reg-vc/reg-vc.php:2727
+#: includes/reg-vc/reg-vc.php:3067 includes/reg-vc/reg-vc.php:3119
+#: includes/reg-vc/reg-vc.php:3171 includes/reg-vc/reg-vc.php:3223
+msgid "<strong>Example:</strong> <code>1px</code>, <code>0.1em</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2681
+msgid "[PRICE] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2688
+msgid "[PRICE] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2695
+msgid "[PRICE] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2702
+msgid "[PRICE] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2709
+msgid "ADD TO CART BUTTON Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2718
+msgid "[ADD TO CART BUTTON] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2725
+msgid "[ADD TO CART BUTTON] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2732
+msgid "[ADD TO CART BUTTON] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2739
+msgid "[ADD TO CART BUTTON] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2746
+msgid "[ADD TO CART BUTTON] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2753
+msgid "[ADD TO CART BUTTON] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2763
+msgid "Price Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2769
+msgid "Price Discount Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2775
+msgid "Star Rating Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2781
+msgid "Star Rating Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2787
+msgid "Add To Cart Button Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2793
+msgid "Add To Cart Button Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2799
+msgid "Add To Cart Button Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2805
+msgid "Add To Cart Button Background Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2845
+msgid "Metas 2 Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2848 includes/reg-vc/reg-vc.php:2931
+msgid "If blank, defaults to <code>#FFFFFF</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2852
+msgid "Metas 2 [Hover] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2855
+msgid "If blank, defaults to <code>rgba(255, 255, 255, 0.85)</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2859
+msgid "Metas 2 [Background] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2862
+msgid "If blank, defaults to <code>#fb4c35</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2867
+msgid "Text Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2875
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2878
+msgid ""
+"Compatible with: List: <code>MIMOSA</code>, <code>MUMS</code>, <code>BELLS "
+"OF IRELAND</code> - Grid: <code>ALPINE THISTLE</code>, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<code>AMARYLLIS</code>, "
+"<code>AMAZON LILY</code>, <code>BABY’S BREATH</code>, <code>BARBERTON</code> "
+"- Carousel Traditional: \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<code>BLEEDING HEART</code>, "
+"<code>BLOOM</code>, <code>BLUE THROATWORT</code> - Carousel Free: "
+"<code>Calla Lily</code>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t- Timeline: <code>CLIMBING ROSE</"
+"code>, <code>MILK FLOWER</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2890
+msgid "Item Border Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2893
+msgid "Apply with the layout has \"Border\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2898
+msgid "Item Shadow Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2901
+msgid "Apply with the layout has \"shadow\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2906
+msgid "Filter Overlay Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2913
+msgid "Main Color 1"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2916
+msgid "If blank, defaults to <code>#fB4C35</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2920
+msgid "Main Color 2"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2923
+msgid "If blank, defaults to <code>#987666</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2928
+msgid "[Smart Tab] Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2935
+msgid "[Smart Tab] Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2938
+msgid "If blank, defaults to <code>#FB4C35</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2945
+msgid "Title Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2997
+msgid "Metas Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3006
+msgid "[Metas] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3013
+msgid "[Metas] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3015
+msgid ""
+"<strong>Example:</strong> <code>1px</code>, <code>0.1em</code> ... If blank, "
+"defaults to <code>0.1em</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3020
+msgid "[Metas] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3027
+msgid "[Metas] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3034
+msgid "[Metas] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3041
+msgid "[Metas] Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3049
+msgid "Main Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3058
+msgid "[Main] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3065
+msgid "[Main] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3072
+msgid "[Main] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3079
+msgid "[Main] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3086
+msgid "[Main] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3093
+msgid "[Main] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3101
+msgid "Filter Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3110
+msgid "[Filter] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3117
+msgid "[Filter] Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3124
+msgid "[Filter] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3131
+msgid "[Filter] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3138
+msgid "[Filter] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3145
+msgid "[Filter] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3153
+msgid "[Tab Title] Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3162
+msgid "[Tab Title] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3169
+msgid "[Tab Title] Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3176
+msgid "[Tab Title] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3183
+msgid "[Tab Title] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3190
+msgid "[Tab Title] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3197
+msgid "[Tab Title] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3205
+msgid "[Pagination] Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3214
+msgid "[Pagination] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3221
+msgid "[Pagination] Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3228
+msgid "[Pagination] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3235
+msgid "[Pagination] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3242
+msgid "[Pagination] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3249
+msgid "[Pagination] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3259
+msgid "Css"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3261
+msgid "Design options"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3270
+msgid "Ultimate Layouts Filter Container"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3281
+msgid "Display Type"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3284
+msgid "Classic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3285
+msgid "Dropdown"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3286
+msgid "Smart Tab"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3291
+msgid "Tab Title"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3294
+msgid "Enter section title (Note: you can leave it empty)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3302
+msgid "Display Child Categories, Taxonomies, Tags..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3315
+msgid "Query Type"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3318 includes/reg-vc/reg-vc.php:3329
+#: includes/reg-vc/reg-vc.php:3340
+msgid "AND"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3319 includes/reg-vc/reg-vc.php:3328
+msgid "OR"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3321 includes/reg-vc/reg-vc.php:3448
+#: includes/reg-vc/reg-vc.php:3549
+msgid "This option does not work with style: CONTENT BLOCKS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3325
+msgid "Relation"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3331
+msgid ""
+"Possible values are 'AND' or 'OR' and is the equivalent of running a JOIN "
+"for each taxonomy.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThis option does not work with "
+"style: CONTENT BLOCKS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3336
+msgid "Operator"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3339
+msgid "IN"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3342
+msgid "Operator to test. This option does not work with style: CONTENT BLOCKS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3346
+msgid "Show number of posts"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3355
+msgid "Hash Filters"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3357
+msgid ""
+"Hash Tag Filter. This option does not work with: \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDisplay Type [(Dropdown) > "
+"Display Child Categories, Taxonomies, Tags...]"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3377
+msgid "Ultimate Layouts Filter Item"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3385
+msgid "Filter Items"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3387
+msgid "Enter categories, tags, taxonomies... be shown in the filters list."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3400
+msgid "Enabled \"Show All\" Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3409
+msgid "\"Show All\" Button - Translate Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3419
+msgid "\"Dropdown Filter\" Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3422
+msgid ""
+"Enter Dropdown Filter title (Note: work with Filter Display Type = "
+"Dropdown). if blank, defaults to: Filter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3437
+msgid "Order - Sort retrieved posts by parameter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3445
+msgid "\"Sort By None\" - Translate Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3503 includes/reg-vc/reg-vc.php:3513
+#: includes/reg-vc/reg-vc.php:3523
+msgid "Work with woocommerce layouts"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:3538
+msgid ""
+"Sort Order - Designates the ascending or descending order of the \"orderby\" "
+"parameter"
+msgstr ""
